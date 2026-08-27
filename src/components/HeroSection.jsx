@@ -26,7 +26,7 @@ export default function HeroSection({ sisterName, onOpenHugModal }) {
         <div className="flex justify-center mb-4 sm:mb-6">
           <div className="inline-flex items-center gap-1.5 sm:gap-2 px-3 py-1 sm:px-4 sm:py-1.5 rounded-full bg-gradient-to-r from-amber-100 via-rose-100 to-amber-100 border border-amber-300/80 shadow-sm text-[11px] sm:text-xs md:text-sm font-semibold text-rose-900 animate-pulse-glow text-center">
             <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-600 animate-spin-slow shrink-0" />
-            <span>Sacred Thread of Love • Only this website is fully vibe-coded ✨</span>
+            <span>Sacred Thread of Love • Raksha Bandhan</span>
             <Sparkles className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-rose-500 animate-spin-slow shrink-0" />
           </div>
         </div>

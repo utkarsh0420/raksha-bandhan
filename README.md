@@ -1,16 +1,28 @@
-# React + Vite
+# 🪢 Happy Raksha Bandhan — Sacred Bond Beyond Blood
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> ✨ **Only this website is fully vibe-coded** ✨  
+> Dedicated to celebrating the purest bond between brother and sister — closer than any blood relation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 Key Features
 
-## React Compiler
+- **🌸 Sacred Virtual Rakhi & Aarti Ceremony:** Interactive Diya lighting, auspicious Tilak, sweet offering, and tying the sacred Rakhi thread.
+- **🎵 Festive Marathi Melody:** Built-in background audio player with *Tula Japnar Aahe (तुला जपणार आहे)* from *Khari Biscuit*.
+- **📜 Emotional Letter & Dynamic Name:** Brother's personal letter sealed with royal golden wax, dynamically personalized for his sister.
+- **🧸 Cute 3D Plush Teddy Bear Companion:** Live hug counter starting at 1, interactive animations, and sweet sister compliments.
+- **🛡️ The Brother's Promises Vault:** 5 sacred lifelong vows from brother to sister.
+- **💌 Heartfelt Sister Love Note Sender:** Direct email delivery to brother's email inbox (`utkarsh0420nikam@gmail.com`) via FormSubmit.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🚀 Live Deployment (Netlify)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+This project is configured for one-click deployment on Netlify.
+
+- **Build Command:** `npm run build`
+- **Publish Directory:** `dist`
+
+---
+
+*Crafted with pure love • Raksha Bandhan 2026*

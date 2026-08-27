@@ -37,7 +37,7 @@ export default function Navbar({ sisterName, onOpenLogin, hugsCount }) {
                 Bond ❤️
               </span>
             </h1>
-            <p className="text-[10px] sm:text-xs text-amber-800/80 font-medium hidden sm:block">Closer Than Blood Relation</p>
+            <p className="text-[10px] sm:text-xs text-amber-800/80 font-medium hidden sm:block">Closer Than Blood Relation • Fully Vibe-Coded ✨</p>
           </div>
         </div>
 

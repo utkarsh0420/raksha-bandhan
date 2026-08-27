@@ -44,8 +44,11 @@ export default function Footer({ sisterName, onOpenHugModal }) {
           </button>
         </div>
 
-        <div className="border-t border-amber-500/20 pt-4 sm:pt-6 text-[10px] sm:text-[11px] text-amber-300/60 flex flex-col sm:flex-row items-center justify-between gap-1.5 sm:gap-2 max-w-3xl mx-auto">
+        <div className="border-t border-amber-500/20 pt-4 sm:pt-6 text-[10px] sm:text-[11px] text-amber-300/70 flex flex-col sm:flex-row items-center justify-between gap-2 max-w-3xl mx-auto">
           <span>Crafted with pure love by your brother ❤️</span>
+          <span className="px-2.5 py-0.5 rounded-full bg-rose-950/70 text-amber-200 border border-amber-400/30 text-[10px] sm:text-[11px] font-medium shadow-xs">
+            ⚡ Only this website is fully vibe-coded
+          </span>
           <span>Raksha Bandhan 2026 • Sacred Bond Beyond Blood</span>
         </div>
 
